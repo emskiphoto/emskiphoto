@@ -4,7 +4,7 @@
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
-[Price Forecasting](https://github.com/emskiphoto/ERCOT_electricity_price_forecast)
+[Price Forecasting](https://github.com/emskiphoto/ERCOT_electricity_price_forecast)<BR>
 [Process NOAA Historical LCD Weather](https://github.com/emskiphoto/Process-Historical-NOAA-LCD-weather)
 
 
