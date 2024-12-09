@@ -6,14 +6,16 @@
 
 [Price Forecasting](https://github.com/emskiphoto/ERCOT_electricity_price_forecast)
 [Process NOAA Historical LCD Weather](https://github.com/emskiphoto/Process-Historical-NOAA-LCD-weather)
- 
+
+
+<!--
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="MattChmielewski | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: [https://linkedin.com/in/joshmadakor](https://www.linkedin.com/in/matt-chmielewski-9a1b8453/)
 
-<!--
+
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
