@@ -3,8 +3,9 @@
   <a>Quantitative Finance</a>
 
 <h2>👨‍💻 Data Science Projects:</h2>
+![image](https://github.com/user-attachments/assets/3fd8c62b-79b8-4446-86a4-5ccfcb439d44)
 
-[Price Forecasting](https://github.com/joshmadakor1/Algorithms-Practice)
+[Price Forecasting](https://github.com/emskiphoto/ERCOT_electricity_price_forecast)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
